@@ -13,7 +13,7 @@ Se o seu projeto exdige alguma instalação para rodar é descrito nesse arquivo
 Se seu projeto está aberto para contribuição isso precisa estar explícito no Readme.
 
 # Créditos:
-Descregva todos os contribuidores do projeto.
+Descreva todos os contribuidores do projeto.
 
 # Licença:
 É sempre importante adicionar a legenda da licença do MIT.
